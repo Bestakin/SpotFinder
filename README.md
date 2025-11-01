@@ -51,24 +51,6 @@ It integrates the **Google Maps SDK**, **Places API (New)**, and **Geocoding API
 
 ---
 
-## Project Structure
-SpotFinder/
-│
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/com/example/spotfinder/
-│ │ │ │ ├── data/ # Room Entities & DAO
-│ │ │ │ ├── viewmodel/ # MainViewModel with StateFlow
-│ │ │ │ └── MainActivity.kt # Entry point + Compose UI
-│ │ │ └── res/values/ # XML resources (no keys exposed)
-│ │ └── AndroidManifest.xml
-│ ├── build.gradle
-│ └── ...
-└── README.md
-
----
-
 ## How to Run the Project
 
 1. Clone the repository:  
