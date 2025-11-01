@@ -1,22 +1,22 @@
 # 🌍 SpotFinder
 
-**SpotFinder** is a modern Android application built with **Kotlin** and **Jetpack Compose** that helps users **search, view, and save real-world locations**.  
-It integrates **Google Maps SDK**, **Places API (New)**, and **Geocoding API** to deliver accurate and interactive location experiences — with offline persistence using **Room Database**.
+**SpotFinder** is a modern Android application that is built using **Kotlin** and **Jetpack Compose**, assisting the user in searching, viewing, and saving real-world locations.
+It integrates the **Google Maps SDK**, **Places API (New)**, and **Geocoding API** to provide accurate and interactive location experiences, with offline persistence by using **Room Database**.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔍 **Search Places:** Find any location worldwide using Google’s Places API.  
-- 🗺️ **Map Integration:** View locations directly on Google Maps with dynamic markers.  
-- 💾 **Save Locations:** Store favorite places locally using Room Database.  
-- 🗑️ **Delete Saved Locations:** Remove any location from your saved list anytime.  
-- 🔐 **API Security:** API keys restricted via package name and SHA-1 fingerprint.  
-- 📶 **Offline Access:** Saved locations remain available even without internet.
+- **Search Places:** Find any location worldwide using Google’s Places API.  
+- **Map Integration:** View locations directly on Google Maps with dynamic markers.  
+- **Save Locations:** Store favorite places locally using Room Database.  
+- **Delete Saved Locations:** Remove any location from your saved list anytime.  
+- **API Security:** API keys restricted via package name and SHA-1 fingerprint.  
+- **Offline Access:** Saved locations remain available even without internet.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technology |
 |-----------|-------------|
@@ -51,7 +51,7 @@ It integrates **Google Maps SDK**, **Places API (New)**, and **Geocoding API** t
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 SpotFinder/
 │
 ├── app/
