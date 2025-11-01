@@ -1,4 +1,4 @@
-# 🌍 SpotFinder
+# SpotFinder
 
 **SpotFinder** is a modern Android application that is built using **Kotlin** and **Jetpack Compose**, assisting the user in searching, viewing, and saving real-world locations.
 It integrates the **Google Maps SDK**, **Places API (New)**, and **Geocoding API** to provide accurate and interactive location experiences, with offline persistence by using **Room Database**.
